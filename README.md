@@ -1,5 +1,5 @@
 # Hi, I'm Barış Özdemir! 👋
-![Profile Badge](https://img.shields.io/badge/Profile-%40barisozdemir-blue)
+![Profile Badge](https://img.shields.io/badge/Profile-%400xbarss-blue)
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in mobile application development, AI, and financial systems. I strive to create innovative and impactful solutions through code.
 
