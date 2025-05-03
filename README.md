@@ -112,6 +112,13 @@ I'm a passionate **mobile developer** building fashionable and modern applicatio
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=sqlite" />
+                    </a>
+                    <br>
+                    SQLite
+               </td>
+               <td align="center">
+                    <a href="https://skillicons.dev">
                         <img src="https://skillicons.dev/icons?i=androidstudio" />
                     </a>
                     <br>
