@@ -20,17 +20,15 @@
 
 ## 📱 **Mobile App Developer | Data Enthusiast | Fintech Explorer**
 
-I'm a passionate **mobile developer** building fashionable and modern applications using **Flutter**, and constantly exploring the intersection of **AI** and **Finance** in the tech world. I believe in turning complex ideas into intuitive digital experiences. 
+I'm a **Software Engineering student** at İzmir University of Economics, specializing in **cross-platform mobile development** with Flutter and Dart. I focus on building scalable, user-friendly applications with strong backend integration and clean UI/UX design. Currently exploring the intersection of **mobile development**, **AI/ML**, and **FinTech** while strengthening my backend engineering skills.
 
 
 ## 🚀 **About Me**
 - 🚀 Passionate about **Mobile App Development**, **AI**, and **FinTech**
+- 📱 Specialized in **Flutter** and **Dart** for cross-platform mobile development
 - 👨‍💻 Writing clean, scalable, and impactful code
-- 📱 Currently focused on **Flutter**, **Java**, and **Python**
-- 📊 Interested in:
-  - Mobile applications
-  - Data-driven applications
-  - FinTech
+- 🔧 Currently focusing on **React** and **Node.js** to bridge frontend and backend
+- 🌱 Building expertise in system architecture and backend engineering
 
 
 ## 🧰 **Tech Stack & Tools**
@@ -41,6 +39,13 @@ I'm a passionate **mobile developer** building fashionable and modern applicatio
           <tr>
                <td align="center">
                     <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=python" />
+                    </a>
+                    <br>
+                    Python
+               </td>
+               <td align="center">
+                    <a href="https://skillicons.dev">
                         <img src="https://skillicons.dev/icons?i=java" />
                     </a>
                     <br>
@@ -48,10 +53,24 @@ I'm a passionate **mobile developer** building fashionable and modern applicatio
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=python" />
+                        <img src="https://skillicons.dev/icons?i=dart" />
                     </a>
                     <br>
-                    Python
+                    Dart
+               </td>
+               <td align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=js" />
+                    </a>
+                    <br>
+                    JavaScript
+               </td>
+               <td align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=cs" />
+                    </a>
+                    <br>
+                    C#
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
@@ -67,25 +86,11 @@ I'm a passionate **mobile developer** building fashionable and modern applicatio
                     <br>
                     CSS
                </td>
-               <td align="center">
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=js" />
-                    </a>
-                    <br>
-                    JavaScript
-               </td>
-               <td align="center">
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=dart" />
-                    </a>
-                    <br>
-                    Dart
-               </td>
           </tr>     
      </table>
 </p>
 
-<h2 align="left">Tools:</h2>
+<h2 align="left">Mobile & Frontend:</h2>
 <p align="left">
      <table>
           <tr>
@@ -95,6 +100,35 @@ I'm a passionate **mobile developer** building fashionable and modern applicatio
                     </a>
                     <br>
                     Flutter
+               </td>
+               <td align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=react" />
+                    </a>
+                    <br>
+                    React
+               </td>
+               <td align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=figma" />
+                    </a>
+                    <br>
+                    Figma
+               </td>
+          </tr>   
+     </table>
+</p>
+
+<h2 align="left">Backend & Database:</h2>
+<p align="left">
+     <table>
+          <tr>
+               <td align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=nodejs" />
+                    </a>
+                    <br>
+                    Node.js
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
@@ -119,11 +153,19 @@ I'm a passionate **mobile developer** building fashionable and modern applicatio
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=androidstudio" />
+                        <img src="https://skillicons.dev/icons?i=dotnet" />
                     </a>
                     <br>
-                    Android Studio
+                    .NET
                </td>
+          </tr>   
+     </table>
+</p>
+
+<h2 align="left">Tools & Technologies:</h2>
+<p align="left">
+     <table>
+          <tr>
                <td align="center">
                     <a href="https://skillicons.dev">
                         <img src="https://skillicons.dev/icons?i=git" />
@@ -133,10 +175,24 @@ I'm a passionate **mobile developer** building fashionable and modern applicatio
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=figma" />
+                        <img src="https://skillicons.dev/icons?i=github" />
                     </a>
                     <br>
-                    Figma
+                    GitHub
+               </td>
+               <td align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=androidstudio" />
+                    </a>
+                    <br>
+                    Android Studio
+               </td>
+               <td align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=postman" />
+                    </a>
+                    <br>
+                    Postman
                </td>
           </tr>   
      </table>
@@ -145,9 +201,48 @@ I'm a passionate **mobile developer** building fashionable and modern applicatio
 
 ## 📱 Featured Projects
 
-### 💡 **Mobile Apps with Flutter**
-Crafted user-friendly, responsive mobile apps with Dart & Flutter.
-- EchoNews
+### 🏥 **SmartVitals** - AI-Powered Health Ecosystem
+*Multidisciplinary Engineering Project*
+
+An intelligent health monitoring platform that combines AI prediction with personalized healthcare management.
+
+**Key Features:**
+- 🤖 AI-powered chronic disease risk prediction using XGBoost
+- 🍎 Personalized dietary recommendations based on clinical food data
+- 📊 Real-time vital signs tracking via Flutter mobile app
+- 🚨 Automated SOS system for emergency health situations
+- 📄 Medical lab report processing and analysis
+
+**Tech Stack:** Flutter, Firebase, Python, XGBoost, SQLite
+
+---
+
+### 📰 **Echo News** - Modern News Aggregator
+*Mobile Application Development*
+
+A clean, intuitive mobile app that delivers curated news from multiple sources with enhanced content discovery.
+
+**Features:**
+- 📱 Cross-platform mobile application
+- 🔍 Category-based news navigation
+- 🎨 Clean, modern UI/UX design
+- 🔄 Real-time news updates
+
+**Tech Stack:** Flutter, Dart, REST API
+
+---
+
+### 📝 **Short Answer Automatic Scoring System**
+*Artificial Intelligence and Expert Systems*
+
+An automated grading system that evaluates short-answer responses using advanced NLP techniques.
+
+**Features:**
+- 🤖 SentenceTransformers model for semantic analysis
+- 📄 Automated answer sheet processing
+- 📊 Structured output generation
+
+**Tech Stack:** Python, NLP, Language Processing
 
 
 ## 📈 GitHub Stats
@@ -158,9 +253,10 @@ Crafted user-friendly, responsive mobile apps with Dart & Flutter.
 
 
 ## 🔍 **Currently Learning**
-- 📱 Enhancing mobile app development skills
-- 🤖 Machine Learning fundamentals with Python
-- 💸 Financial modeling with code
+- 🔧 **Backend Development**: Deepening Node.js expertise for full-stack capabilities
+- ⚛️ **React Ecosystem**: Building modern web interfaces with React
+- 🏗️ **System Architecture**: Understanding scalable application design patterns
+- 💰 **FinTech Solutions**: Exploring financial technology implementations
 
 
 <p align="left">
