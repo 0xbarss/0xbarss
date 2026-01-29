@@ -14,7 +14,7 @@
 </table>
 
 <p align="left">
-     <a href="mailto:barisozdemir046@hotmail.com"><img src="https://img.shields.io/badge/Email-barisozdemir046@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+     <a href="mailto:baris.ozdemir.se@gmail.com"><img src="https://img.shields.io/badge/Email-baris.ozdemir.se@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
