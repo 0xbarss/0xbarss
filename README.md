@@ -7,33 +7,53 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/-barisozdemir-/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
-        <div>LinkedIn</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:baris.ozdemir.se@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
       </a>
     </td>
   </tr>
 </table>
 
+
+## ⚙️ Software Engineer — Backend & Systems
+
+Software Engineering student at İzmir University of Economics focused on backend engineering, scalable systems, API architecture, and performance-oriented software design.
+
+Interested in building reliable backend services, improving system performance, and designing maintainable software architectures.
+
+
+## ***About Me***
+- Interested in backend engineering and scalable system design
+- Passionate about performance optimization and maintainable architectures
+- Enjoy solving engineering-focused problems and improving existing systems
+- Currently learning Rust and systems programming fundamentals
+- Experienced in team-based software development workflows
+
+
+## ***Tech Stack & Tools***
+<h3 align="left">Infrastructure & Systems:</h3>
+
 <p align="left">
-     <a href="mailto:baris.ozdemir.se@gmail.com"><img src="https://img.shields.io/badge/Email-baris.ozdemir.se@gmail.com-blue?style=flat-square&logo=gmail"></a>
+     <table>
+          <tr>
+               <td align="center">
+                    <img src="https://skillicons.dev/icons?i=linux" />
+                    <br>
+                    Linux
+               </td>
+               <td align="center">
+                    <img src="https://skillicons.dev/icons?i=bash" />
+                    <br>
+                    Bash
+               </td>
+          </tr>
+     </table>
 </p>
 
-
-## 📱 **Mobile App Developer | Data Enthusiast | Fintech Explorer**
-
-I'm a **Software Engineering student** at İzmir University of Economics, specializing in **cross-platform mobile development** with Flutter and Dart. I focus on building scalable, user-friendly applications with strong backend integration and clean UI/UX design. Currently exploring the intersection of **mobile development**, **AI/ML**, and **FinTech** while strengthening my backend engineering skills.
-
-
-## 🚀 **About Me**
-- 🚀 Passionate about **Mobile App Development**, **AI**, and **FinTech**
-- 📱 Specialized in **Flutter** and **Dart** for cross-platform mobile development
-- 👨‍💻 Writing clean, scalable, and impactful code
-- 🔧 Currently focusing on **React** and **Node.js** to bridge frontend and backend
-- 🌱 Building expertise in system architecture and backend engineering
-
-
-## 🧰 **Tech Stack & Tools**
-
-<h2 align="left">Languages:</h2>
+<h3 align="left">Languages:</h3>
 <p align="left">
      <table>
           <tr>
@@ -53,73 +73,23 @@ I'm a **Software Engineering student** at İzmir University of Economics, specia
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=dart" />
+                        <img src="https://skillicons.dev/icons?i=ts" />
                     </a>
                     <br>
-                    Dart
+                    TypeScript
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=js" />
+                        <img src="https://skillicons.dev/icons?i=rust" />
                     </a>
                     <br>
-                    JavaScript
-               </td>
-               <td align="center">
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=cs" />
-                    </a>
-                    <br>
-                    C#
-               </td>
-               <td align="center">
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=html" />
-                    </a>
-                    <br>
-                    HTML
-               </td>
-               <td align="center">
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=css" />
-                    </a>
-                    <br>
-                    CSS
+                    Rust
                </td>
           </tr>     
      </table>
 </p>
 
-<h2 align="left">Mobile & Frontend:</h2>
-<p align="left">
-     <table>
-          <tr>
-               <td align="center">
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=flutter" />
-                    </a>
-                    <br>
-                    Flutter
-               </td>
-               <td align="center">
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=react" />
-                    </a>
-                    <br>
-                    React
-               </td>
-               <td align="center">
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=figma" />
-                    </a>
-                    <br>
-                    Figma
-               </td>
-          </tr>   
-     </table>
-</p>
-
-<h2 align="left">Backend & Database:</h2>
+<h3 align="left">Backend & Database:</h3>
 <p align="left">
      <table>
           <tr>
@@ -153,16 +123,38 @@ I'm a **Software Engineering student** at İzmir University of Economics, specia
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=dotnet" />
+                        <img src="https://skillicons.dev/icons?i=postgres" />
                     </a>
                     <br>
-                    .NET
+                    PostgreSQL
                </td>
           </tr>   
      </table>
 </p>
 
-<h2 align="left">Tools & Technologies:</h2>
+<h3 align="left">Mobile & Frontend:</h3>
+<p align="left">
+     <table>
+          <tr>
+               <td align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=flutter" />
+                    </a>
+                    <br>
+                    Flutter
+               </td>
+               <td align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=figma" />
+                    </a>
+                    <br>
+                    Figma
+               </td>
+          </tr>   
+     </table>
+</p>
+
+<h3 align="left">Tools & Technologies:</h3>
 <p align="left">
      <table>
           <tr>
@@ -182,13 +174,6 @@ I'm a **Software Engineering student** at İzmir University of Economics, specia
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=androidstudio" />
-                    </a>
-                    <br>
-                    Android Studio
-               </td>
-               <td align="center">
-                    <a href="https://skillicons.dev">
                         <img src="https://skillicons.dev/icons?i=postman" />
                     </a>
                     <br>
@@ -199,68 +184,96 @@ I'm a **Software Engineering student** at İzmir University of Economics, specia
 </p>
 
 
-## 📱 Featured Projects
+## ***Featured Projects***
 
-### 🏥 **SmartVitals** - AI-Powered Health Ecosystem
-*Multidisciplinary Engineering Project*
+### **RoveraQ** - Algorithmic Trading System
 
-An intelligent health monitoring platform that combines AI prediction with personalized healthcare management.
+Performance-oriented algorithmic trading and strategy evaluation platform focused on scalable financial data processing, quantitative analysis workflows, and efficient backtesting infrastructure.
 
-**Key Features:**
-- 🤖 AI-powered chronic disease risk prediction using XGBoost
-- 🍎 Personalized dietary recommendations based on clinical food data
-- 📊 Real-time vital signs tracking via Flutter mobile app
-- 🚨 Automated SOS system for emergency health situations
-- 📄 Medical lab report processing and analysis
+Designed around modular data pipelines, vectorized computation, and maintainable research workflows for large-scale historical market analysis and trading strategy experimentation.
 
-**Tech Stack:** Flutter, Firebase, Python, XGBoost, SQLite
+**Focus Areas:**
+- Historical market data pipelines
+- Strategy backtesting infrastructure
+- Vectorized data processing with Polars & NumPy
+- Quantitative trading research workflows
+- Performance optimization for large datasets
+- Modular and extensible system design
+- Experimentation with Rust for high-performance components
+
+Tech Stack: Python, Rust, Polars, Numpy, Financial Data Processing
 
 ---
 
-### 📰 **Echo News** - Modern News Aggregator
+### **Builty** — Headless CMS & Web Builder
+
+Feature-modular headless CMS and website management platform designed around scalable frontend architecture, dynamic content modeling, and maintainable backend-driven workflows.
+
+**Focus Areas:**
+- Modular system architecture
+- Dynamic content type & component builders
+- REST API-driven workflows
+
+Tech Stack: TypeScript, Node.js, PostgreSQL, REST APIs
+
+***Inspired by modern headless CMS platforms such as Strapi and Payload CMS.***
+
+---
+
+### **SmartVitals** - AI-Powered Health Ecosystem
+*Multidisciplinary Engineering Project*
+
+AI-assisted healthcare platform for chronic disease prediction and real-time health monitoring.
+
+**Focus Areas:**
+- AI-powered chronic disease risk prediction using XGBoost
+- Personalized dietary recommendations based on clinical food data
+- Real-time vital signs tracking via Flutter mobile app
+- Automated SOS system for emergency health situations
+- Medical lab report processing and analysis
+
+**Tech Stack:** Python, Flutter, Firebase, SQLite, XGBoost
+
+---
+
+### **Echo News** - Modern News Aggregator
 *Mobile Application Development*
 
 A clean, intuitive mobile app that delivers curated news from multiple sources with enhanced content discovery.
 
 **Features:**
-- 📱 Cross-platform mobile application
-- 🔍 Category-based news navigation
-- 🎨 Clean, modern UI/UX design
-- 🔄 Real-time news updates
+- Cross-platform mobile application
+- Category-based news navigation
+- Clean, modern UI/UX design
+- Real-time news updates
 
 **Tech Stack:** Flutter, Dart, REST API
 
 ---
 
-### 📝 **Short Answer Automatic Scoring System**
+### **Short Answer Automatic Scoring System**
 *Artificial Intelligence and Expert Systems*
 
 An automated grading system that evaluates short-answer responses using advanced NLP techniques.
 
 **Features:**
-- 🤖 SentenceTransformers model for semantic analysis
-- 📄 Automated answer sheet processing
-- 📊 Structured output generation
+- SentenceTransformers model for semantic analysis
+- Automated answer sheet processing
+- Structured output generation
 
 **Tech Stack:** Python, NLP, Language Processing
 
+---
 
-## 📈 GitHub Stats
+## ***GitHub Stats***
 
-<p align="left">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbarss&theme=radical&langs_count=8" width="30%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xbarss&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xbarss&theme=radical" height="165"/>
 </p>
-
-
-## 🔍 **Currently Learning**
-- 🔧 **Backend Development**: Deepening Node.js expertise for full-stack capabilities
-- ⚛️ **React Ecosystem**: Building modern web interfaces with React
-- 🏗️ **System Architecture**: Understanding scalable application design patterns
-- 💰 **FinTech Solutions**: Exploring financial technology implementations
-
 
 <p align="left">
      <img src="https://komarev.com/ghpvc/?username=0xbarss&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-_Thanks for visiting! Feel free to explore my projects and reach out for collaboration._ 🚀
+_Thanks for visiting! Feel free to explore my projects and reach out for collaboration._ 
