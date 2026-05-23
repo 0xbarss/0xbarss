@@ -265,13 +265,6 @@ An automated grading system that evaluates short-answer responses using advanced
 
 ---
 
-## ***GitHub Stats***
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xbarss&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xbarss&theme=radical" height="165"/>
-</p>
-
 <p align="left">
      <img src="https://komarev.com/ghpvc/?username=0xbarss&style=flat-square&color=blue" alt="Profile views"/>
 </p>
