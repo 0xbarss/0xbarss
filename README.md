@@ -54,7 +54,3 @@ Basically, I like figuring out what's happening underneath the abstractions.
 ### Pinned projects
 
 My pinned repos are probably the best way to see what I'm working on. Each one has its own README with more details.
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=0xbarss&style=flat-square&color=blue)
