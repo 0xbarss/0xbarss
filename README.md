@@ -64,11 +64,11 @@ Software engineer, recently graduated from İzmir University of Economics. I'm m
 
 ### Currently exploring
 
-I'm spending most of my time going deeper into C and Rust.
+Most of my time right now is split between backend and systems work, and I find the line between them interesting.
 
-Right now, that means memory management, network programming from raw sockets, emulator and VM internals, and getting a better understanding of how embedded systems work.
+On the backend side, I want to own the full stack of decisions: how data is stored, how requests are validated, how errors propagate. On the systems side, that means going lower when something needs it. Allocators in C, raw sockets, understanding what the runtime actually does.
 
-Basically, I like figuring out what's happening underneath the abstractions.
+The two aren't as separate as they look.
 
 ### Pinned projects
 
